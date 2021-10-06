@@ -1,0 +1,17 @@
+Ligand_1
+Ligand_2
+Ligand_3
+Ligand_4
+Ligand_5
+Receptor_1
+Receptor_2
+Complex_1_1
+Complex_1_2
+Complex_2_1
+Complex_2_2
+Complex_3_1
+Complex_3_2
+Complex_4_1
+Complex_4_2
+Complex_5_1
+Complex_5_2
